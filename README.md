@@ -153,19 +153,19 @@ Programming quantum computers will be challenging, at least in the near term. Qu
 
 ## Fall 2009 - Spring 2010
 
-- September 29, 2009: Stephen Freund (Williams): FastTrack: Efficient and Precise Dynamic Race Detection
-- October 6, 2009: Sam Guyer (Tufts): Virtual Machine Introspection for Program Understanding and Debugging
-- October 13, 2009: Eran Yahav (IBM): Software Reliability: Untold Stories of Synthesis, Verification and Runtime Checking
-- October 20, 2009: Geoffrey Werner Challen (Harvard)
-- November 3, 2009: Ben Livshits (Microsoft Research): Towards Better Performance and Security for AJAX Web Applications
-- November 17, 2009: Mike Swift (Wisconsin): Software Support for Improved Driver Reliability
+- September 29, 2009: [Stephen Freund](http://www.cs.williams.edu/~freund/index.html) (Williams): FastTrack: Efficient and Precise Dynamic Race Detection
+- October 6, 2009: [Sam Guyer](https://www.cs.tufts.edu/~sguyer/) (Tufts): Virtual Machine Introspection for Program Understanding and Debugging
+- October 13, 2009: [Eran Yahav](http://www.cs.technion.ac.il/~yahave/) (IBM): Software Reliability: Untold Stories of Synthesis, Verification and Runtime Checking
+- October 20, 2009: [Geoffrey Werner Challen](https://cs.illinois.edu/about/people/faculty/challen) (Harvard)
+- November 3, 2009: [Ben Livshits](https://www.linkedin.com/in/ben-livshits/?originalSubdomain=uk) (Microsoft Research): Towards Better Performance and Security for AJAX Web Applications
+- November 17, 2009: [Mike Swift](https://pages.cs.wisc.edu/~swift/) (Wisconsin): Software Support for Improved Driver Reliability
 - November 24, 2009: Bill Hesse (Google): Compiling JavaScript to Fast Executable Code
-- December 1, 2009: Michael Scott (Rochester): Transactional Memory, Six(teen) Years In
-- January 26, 2010: Martin Rinard (MIT): Automatically Reducing Energy Consumption, Improving Performance and Tolerating Failures with Good Quality of Service
-- February 1, 2010: Allen Malony (Oregon): Extreme Performance Engineering: Petascale and Heterogeneous Systems
-- March 2, 2010: Martin Hirzel (IBM): Programming Language Challenges and Solutions in Stream Processing
-- March 10, 2010: Kim Hazelwood (UVa): A Case for Runtime Adaptation Using Cross-Layer Approaches
-- March 30, 2010: Vitaliy Lvin (Google): SPDY, a new application-layer protocol for a faster Web
-- April 6, 2010: Stefan Leue (Konstanz)
-- April 13, 2010: Barath Raghavan (Williams): Overloading the Internet with Decongestion Control
-- May 4, 2010: Philippe Cudré-Mauroux (MIT): SciDB: A Science-Oriented Database Management System
+- December 1, 2009: [Michael Scott](https://www.cs.rochester.edu/~scott/) (Rochester): Transactional Memory, Six(teen) Years In
+- January 26, 2010: [Martin Rinard](https://people.csail.mit.edu/rinard/) (MIT): Automatically Reducing Energy Consumption, Improving Performance and Tolerating Failures with Good Quality of Service
+- February 1, 2010: [Allen Malony](https://cs.uoregon.edu/profile/malony) (Oregon): Extreme Performance Engineering: Petascale and Heterogeneous Systems
+- March 2, 2010: [Martin Hirzel](http://hirzels.com/martin/) (IBM): Programming Language Challenges and Solutions in Stream Processing
+- March 10, 2010: [Kim Hazelwood](https://www.linkedin.com/in/kim-hazelwood-277135/) (UVa): A Case for Runtime Adaptation Using Cross-Layer Approaches
+- March 30, 2010: [Vitaliy Lvin](https://www.linkedin.com/in/vitaliyl/) (Google): SPDY, a new application-layer protocol for a faster Web
+- April 6, 2010: [Stefan Leue](https://www.sen.uni-konstanz.de/) (Konstanz)
+- April 13, 2010: [Barath Raghavan](https://raghavan.usc.edu/) (Williams): Overloading the Internet with Decongestion Control
+- May 4, 2010: [Philippe Cudré-Mauroux](https://exascale.info/phil/) (MIT): SciDB: A Science-Oriented Database Management System
