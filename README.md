@@ -105,23 +105,23 @@ Programming quantum computers will be challenging, at least in the near term. Qu
 ## Fall 2014 - Spring 2015
 
 - September 22, 2014: Guy Fedorkow (Juniper Networks): High-Scale Routers for Internet Infrastructure
-- September 26, 2014: Mike Swift (Wisconsin): New Interfaces to Storage-Class Memory
-- October 20, 2014: Jan Vitek (Northeastern): The Case for the Three R’s of Systems Research: Repeatability, Reproducibility and Rigor
-- October 27, 2014: Greg Morrisett (Harvard): Formalizing the x86
-- November 3, 2014: Armando Solar-Lezama (MIT): Constraint based synthesis beyond automated programming
-- November 17, 2014: Tony Printezis (Twitter): Use of the JVM at Twitter: a Bird’s Eye View
-- November 25, 2014: Anindya Banerjee (IMDEA/NSF): Modular Reasoning for Behavior-Preserving Data Structure Refactorings
-- December 8, 2014: Jean Yang (MIT): A Language for Automatically Enforcing Information Flow Policies
-- April 27, 2015: Bryan Ford (EPFL): Warding off timing attacks in Deterland
+- September 26, 2014: [Mike Swift](https://pages.cs.wisc.edu/~swift/) (Wisconsin): New Interfaces to Storage-Class Memory
+- October 20, 2014: [Jan Vitek](http://janvitek.org/) (Northeastern): The Case for the Three R’s of Systems Research: Repeatability, Reproducibility and Rigor
+- October 27, 2014: [Greg Morrisett](http://www.cs.cornell.edu/~jgm/) (Harvard): Formalizing the x86
+- November 3, 2014: [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/) (MIT): Constraint based synthesis beyond automated programming
+- November 17, 2014: [Tony Printezis](https://www.linkedin.com/in/tony-printezis-44ba8b5/) (Twitter): Use of the JVM at Twitter: a Bird’s Eye View
+- November 25, 2014: [Anindya Banerjee](https://www.nsf.gov/staff/staff_bio.jsp?lan=abanerje&org=NSF&from_org=NSF) (IMDEA/NSF): Modular Reasoning for Behavior-Preserving Data Structure Refactorings
+- December 8, 2014: [Jean Yang](https://www.cs.cmu.edu/~jyang2/) (MIT): A Language for Automatically Enforcing Information Flow Policies
+- April 27, 2015: [Bryan Ford](https://bford.info/) (EPFL): Warding off timing attacks in Deterland
 
 ## Fall 2013 - Spring 2014
 
-- September 23, 2013: Niko Matsakis (Mozilla Research): Guaranteeing Memory Safety in Rust
-- September 30, 2013: Arjun Guha (UMass):  Programming Languages meets Programmable Networks
-- October 21, 2013: Veselin Raychev (ETH-Zurich): EventRacer: Finding Concurrency Errors in Web Sites
-- November 4, 2013: Nenad Medvidovic (USC): Architectural Decay in Software Systems: Symptoms, Causes, and Remedies
-- February 10, 2014: Claire Le Goues (CMU): Automatic Program Repair Using Genetic Programming
-- May 12, 2014: Milind Kulkarni (Purdue): Automatically enhancing locality in irregular applications
+- September 23, 2013: [Niko Matsakis](http://smallcultfollowing.com/babysteps/) (Mozilla Research): Guaranteeing Memory Safety in Rust
+- September 30, 2013: [Arjun Guha](https://ccs.neu.edu/~arjunguha/main/home/) (UMass):  Programming Languages meets Programmable Networks
+- October 21, 2013: [Veselin Raychev](https://www.sri.inf.ethz.ch/people/veselin) (ETH-Zurich): EventRacer: Finding Concurrency Errors in Web Sites
+- November 4, 2013: [Nenad Medvidović](https://softarch.usc.edu/~neno/) (USC): Architectural Decay in Software Systems: Symptoms, Causes, and Remedies
+- February 10, 2014: [Claire Le Goues](https://clairelegoues.com/) (CMU): Automatic Program Repair Using Genetic Programming
+- May 12, 2014: [Milind Kulkarni](https://engineering.purdue.edu/~milind/) (Purdue): Automatically enhancing locality in irregular applications
 
 ## Fall 2012 - Spring 2013
 
