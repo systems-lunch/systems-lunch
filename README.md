@@ -17,7 +17,7 @@ To register, [fill out this Google form.](https://forms.gle/uV2Q8vxnZvZ5zaAh9)
 - October 16, 2020: [Jonathan Ragan-Kelley](https://people.eecs.berkeley.edu/~jrk/) (MIT): [Organizing Computation for High-Performance Graphics and Visual Computing](#october-16-2020)
 - October 23, 2020: [Mike Hicks](http://www.cs.umd.edu/~mwh/) (Maryland): [A Verified Optimizer for Quantum Circuits](#october-23-2020)
 - October 30, 2020: [James Mickens](https://mickens.seas.harvard.edu/) (Harvard): [TBD](#october-30-2020)
-- November 13, 2020: [Tianqi Chen]() (CMU): [](#november-13-2020)
+- November 13, 2020: [Tianqi Chen](https://tqchen.com/) (CMU): [TVM: An automated deep learning compiler](#november-13-2020)
 
 ### October 2, 2020
 
