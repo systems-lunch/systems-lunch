@@ -77,16 +77,16 @@ Programming quantum computers will be challenging, at least in the near term. Qu
 
 ## Fall 2019
 
-- September 27, 2019: [Jan Vitek](http://janvitek.org/) (Northeastern): [Getting everything wrong without doing anything right! On the perils of large-scale analysis of Github data]()
-- October 4, 2019: [Pavel Panchekha](https://pavpanchekha.com/) (Utah): [Automated Reasoning about Web Page Layout]()
-- October 11, 2019: [Anshul Gandhi](https://www3.cs.stonybrook.edu/~anshul/) (Stony Brook): [Using Variability as a Guiding Principle to Reduce Latency in Web Applications via OS Profiling]()
+- September 27, 2019: [Jan Vitek](http://janvitek.org/) (Northeastern): Getting everything wrong without doing anything right! On the perils of large-scale analysis of Github data
+- October 4, 2019: [Pavel Panchekha](https://pavpanchekha.com/) (Utah): Automated Reasoning about Web Page Layout
+- October 11, 2019: [Anshul Gandhi](https://www3.cs.stonybrook.edu/~anshul/) (Stony Brook): Using Variability as a Guiding Principle to Reduce Latency in Web Applications via OS Profiling
 
 ## Fall 2017 - Spring 2018
 
-- October 19, 2017: [Nicholas Matsakis](http://smallcultfollowing.com/babysteps/) (Mozilla Research): [Rust: Systems Programming for All]()
-- November 3, 2017: [Andrei Alexandrescu](http://erdani.com/) (D Language Foundation): [Design by Introspection using the D Language]()
-- November 10, 2017: [Jan Vitek](http://janvitek.org/) (Northeastern): [The Beauty and the Beast – from Fortress to Julia]()
-- April 19, 2018: [Amer Diwan](https://research.google/people/AmerDiwan/) (Google): [Why Billion User Systems are Hard]()
+- October 19, 2017: [Nicholas Matsakis](http://smallcultfollowing.com/babysteps/) (Mozilla Research): [Rust: Systems Programming for All](2017-2018/Systems-Programming-for-All-Niko-Matsakis.pdf)
+- November 3, 2017: [Andrei Alexandrescu](http://erdani.com/) (D Language Foundation): [Design by Introspection using the D Language](2017-2018/Design-by-Introspection-Andrei-Alexandrescu.pdf)
+- November 10, 2017: [Jan Vitek](http://janvitek.org/) (Northeastern): [The Beauty and the Beast – from Fortress to Julia](2017-2018/Beauty-and-the-Beast-Jan-Vitek.pdf)
+- April 19, 2018: [Amer Diwan](https://research.google/people/AmerDiwan/) (Google): Why Billion User Systems are Hard
 
 ## Fall 2016
 
