@@ -125,12 +125,12 @@ Programming quantum computers will be challenging, at least in the near term. Qu
 
 ## Fall 2012 - Spring 2013
 
-- September 17, 2012: Alexandra Meliou (UMass): Reverse Engineering Data Transformations
-- October 1, 2012: Ben Shneiderman (Maryland): Information Visualization for Medical Informatics
-- December 10, 2012: Kevin Walsh (Holy Cross): Authorization and Trust: Lessons from the Nexus Project
-- April 8, 2013: Rick Hudson (Intel): River Trail: Adding Data Parallelism to JavaScript
-- April 22, 2013: Ramesh Sitaraman (UMass): The Billion Dollar Question in Online Videos: How Video Performance Impacts Viewer Behavior?
-- April 29, 2013: Robert Grimm (NYU): SuperC: Parsing All of C by Taming the Preprocessor
+- September 17, 2012: [Alexandra Meliou](https://people.cs.umass.edu/~ameli/) (UMass): Reverse Engineering Data Transformations
+- October 1, 2012: [Ben Shneiderman](http://www.cs.umd.edu/users/ben/) (Maryland): Information Visualization for Medical Informatics
+- December 10, 2012: [Kevin Walsh](https://mathcs.holycross.edu/~kwalsh/) (Holy Cross): Authorization and Trust: Lessons from the Nexus Project
+- April 8, 2013: [Rick Hudson](https://www.linkedin.com/in/richard-hudson-33339185/) (Intel): River Trail: Adding Data Parallelism to JavaScript
+- April 22, 2013: [Ramesh Sitaraman](https://groups.cs.umass.edu/ramesh/) (UMass): The Billion Dollar Question in Online Videos: How Video Performance Impacts Viewer Behavior?
+- April 29, 2013: [Robert Grimm](https://apparebit.com/) (NYU): SuperC: Parsing All of C by Taming the Preprocessor
 
 ## Fall 2011 - Spring 2012
 
