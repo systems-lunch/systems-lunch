@@ -23,19 +23,16 @@ To register, [fill out this Google form.](https://forms.gle/uV2Q8vxnZvZ5zaAh9)
 
 ## Fall 2019
 
-- September 27, 2019: [Jan Vitek](http://janvitek.org/)(Northeastern): [Getting everything wrong without doing anything right! On the perils of large-scale analysis of Github data]()
-- October 4, 2019: [Pavel Panchekha](https://pavpanchekha.com/)(Utah): [Automated Reasoning about Web Page Layout]()
-- October 11, 2019: [Anshul Gandhi](https://www3.cs.stonybrook.edu/~anshul/)(Stony Brook): [Using Variability as a Guiding Principle to Reduce Latency in Web Applications via OS Profiling]()
+- September 27, 2019: [Jan Vitek](http://janvitek.org/) (Northeastern): [Getting everything wrong without doing anything right! On the perils of large-scale analysis of Github data]()
+- October 4, 2019: [Pavel Panchekha](https://pavpanchekha.com/) (Utah): [Automated Reasoning about Web Page Layout]()
+- October 11, 2019: [Anshul Gandhi](https://www3.cs.stonybrook.edu/~anshul/) (Stony Brook): [Using Variability as a Guiding Principle to Reduce Latency in Web Applications via OS Profiling]()
 
-## Spring 2018
-
-- April 19, 2018: [Amer Diwan](https://research.google/people/AmerDiwan/)(Google): [Why Billion User Systems are Hard]()
-
-## Fall 2017
+## Fall 2017 - Spring 2018
 
 - October 19, 2017: [Nicholas Matsakis](http://smallcultfollowing.com/babysteps/)(Mozilla Research): [Rust: Systems Programming for All]()
 - November 3, 2017: [Andrei Alexandrescu](http://erdani.com/)(D Language Foundation): [Design by Introspection using the D Language]()
 - November 10, 2017: [Jan Vitek](http://janvitek.org/)(Northeastern): [The Beauty and the Beast – from Fortress to Julia]()
+- April 19, 2018: [Amer Diwan](https://research.google/people/AmerDiwan/) (Google): [Why Billion User Systems are Hard]()
 
 ## Fall 2016
 
@@ -51,11 +48,7 @@ To register, [fill out this Google form.](https://forms.gle/uV2Q8vxnZvZ5zaAh9)
 - October 19, 2015: Remco Chang (Tufts): Big Data Visual Analytics: A User-Centric Approach
 - November 2, 2015: Ethan Heilman (Boston University): Eclipse Attacks on Bitcoin’s Peer-to-Peer Network
 
-## Spring 2015
-
-- April 27, 2015: Bryan Ford (EPFL): Warding off timing attacks in Deterland
-
-## Fall 2014
+## Fall 2014 - Spring 2015
 
 - September 22, 2014: Guy Fedorkow (Juniper Networks): High-Scale Routers for Internet Infrastructure
 - September 26, 2014: Mike Swift (Wisconsin): New Interfaces to Storage-Class Memory
@@ -65,36 +58,27 @@ To register, [fill out this Google form.](https://forms.gle/uV2Q8vxnZvZ5zaAh9)
 - November 17, 2014: Tony Printezis (Twitter): Use of the JVM at Twitter: a Bird’s Eye View
 - November 25, 2014: Anindya Banerjee (IMDEA/NSF): Modular Reasoning for Behavior-Preserving Data Structure Refactorings
 - December 8, 2014: Jean Yang (MIT): A Language for Automatically Enforcing Information Flow Policies
+- April 27, 2015: Bryan Ford (EPFL): Warding off timing attacks in Deterland
 
-## Spring 2014
-
-- February 10, 2014: Claire Le Goues (CMU): Automatic Program Repair Using Genetic Programming
-- May 12, 2014: Milind Kulkarni (Purdue): Automatically enhancing locality in irregular applications
-
-## Fall 2013
+## Fall 2013 - Spring 2014
 
 - September 23, 2013: Niko Matsakis (Mozilla Research): Guaranteeing Memory Safety in Rust
 - September 30, 2013: Arjun Guha (UMass):  Programming Languages meets Programmable Networks
 - October 21, 2013: Veselin Raychev (ETH-Zurich): EventRacer: Finding Concurrency Errors in Web Sites
 - November 4, 2013: Nenad Medvidovic (USC): Architectural Decay in Software Systems: Symptoms, Causes, and Remedies
+- February 10, 2014: Claire Le Goues (CMU): Automatic Program Repair Using Genetic Programming
+- May 12, 2014: Milind Kulkarni (Purdue): Automatically enhancing locality in irregular applications
 
-## Spring 2013
-
-- April 8, 2013: Rick Hudson (Intel): River Trail: Adding Data Parallelism to JavaScript
-- April 22, 2013: Ramesh Sitaraman (UMass): The Billion Dollar Question in Online Videos: How Video Performance Impacts Viewer Behavior?
-- April 29, 2013: Robert Grimm (NYU): SuperC: Parsing All of C by Taming the Preprocessor
-
-## Fall 2012
+## Fall 2012 - Spring 2013
 
 - September 17, 2012: Alexandra Meliou (UMass): Reverse Engineering Data Transformations
 - October 1, 2012: Ben Shneiderman (Maryland): Information Visualization for Medical Informatics
 - December 10, 2012: Kevin Walsh (Holy Cross): Authorization and Trust: Lessons from the Nexus Project
+- April 8, 2013: Rick Hudson (Intel): River Trail: Adding Data Parallelism to JavaScript
+- April 22, 2013: Ramesh Sitaraman (UMass): The Billion Dollar Question in Online Videos: How Video Performance Impacts Viewer Behavior?
+- April 29, 2013: Robert Grimm (NYU): SuperC: Parsing All of C by Taming the Preprocessor
 
-## Spring 2012
-
-- February 13, 2012: Stephen Freund (Williams): Cooperative Concurrency for a Multicore World
-
-## Fall 2011
+## Fall 2011 - Spring 2012
 
 - September 15, 2011: Jeff Chase (Duke): Trust in the Federation: Authorization for Multi-Domain Clouds
 - September 19, 2011: Christophe Diot and Renata Teixeira (Technicolor / CNRS and UPMC Sorbonne Universités): Challenges in digital services delivery | Performance of Networked Applications
@@ -102,17 +86,16 @@ To register, [fill out this Google form.](https://forms.gle/uV2Q8vxnZvZ5zaAh9)
 - November 7, 2011: Sriram Rao (Yahoo! Research): I-files: Handling Intermediate Data In Parallel Dataflow Graphs
 - November 21, 2011: Gene Cooperman (Northeastern): Temporal Debugging via Flexible Checkpointing: Changing the Cost Model
 - November 22, 2011: Ben Livshits (Microsoft Research): Finding Malware on a Web Scale
+- February 13, 2012: Stephen Freund (Williams): Cooperative Concurrency for a Multicore World
 
-## Spring 2011
 
-- February 28, 2011: Simha Sethumadhavan (Columbia): Trustworthy Hardware from Untrustworthy Components
-- March 28, 2011: Angelina Lee (MIT): Using Thread-Local Memory Mapping to Support Cactus Stacks in Work-Stealing Runtime Systems
-- April 27, 2011: Dan Grossman (Washington): Collaborating at the Hardware/Software Interface: A Programming-Languages Professor’s View
-
-## Fall 2010
+## Fall 2010 - Spring 2011
 
 - October 25, 2010: Saman Amarasinghe (MIT): PetaBricks: A Language and Compiler Based on Autotuning
 - November 8, 2010: Daniel Jimenez (UTSA): Reducing Wasted Speculation
+- February 28, 2011: Simha Sethumadhavan (Columbia): Trustworthy Hardware from Untrustworthy Components
+- March 28, 2011: Angelina Lee (MIT): Using Thread-Local Memory Mapping to Support Cactus Stacks in Work-Stealing Runtime Systems
+- April 27, 2011: Dan Grossman (Washington): Collaborating at the Hardware/Software Interface: A Programming-Languages Professor’s View
 
 
 ### October 2, 2020
