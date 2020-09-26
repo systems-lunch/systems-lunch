@@ -10,7 +10,7 @@ going on in the College.
 All talks will be over Zoom and will require registration and a password.
 To register, [fill out this Google form.](https://forms.gle/uV2Q8vxnZvZ5zaAh9)
 
-## Fall 2020
+## Fall 2020 - Spring 2021
 
 - October 2, 2020: [Adrian Sampson](http://www.cs.cornell.edu/~asampson/) (Cornell): [Languages and Compilers for Accelerator Design](#october-2-2020)
 - October 9, 2020: [Hila Peleg](http://cseweb.ucsd.edu/~hpeleg/) (UCSD): [Programmer Tools with Program Synthesis](#october-9-2020)
@@ -18,6 +18,8 @@ To register, [fill out this Google form.](https://forms.gle/uV2Q8vxnZvZ5zaAh9)
 - October 23, 2020: [Mike Hicks](http://www.cs.umd.edu/~mwh/) (Maryland): [A Verified Optimizer for Quantum Circuits](#october-23-2020)
 - October 30, 2020: [James Mickens](https://mickens.seas.harvard.edu/) (Harvard): [TBD](#october-30-2020)
 - November 13, 2020: [Tianqi Chen](https://tqchen.com/) (CMU): [TVM: An automated deep learning compiler](#november-13-2020)
+- February 12, 2021: [Işıl Dillig](https://www.cs.utexas.edu/~isil/): TBD
+- TBD: [Emina Torlak](https://homes.cs.washington.edu/~emina/) (Washington): TBD
 
 ### October 2, 2020
 
