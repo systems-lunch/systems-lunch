@@ -169,3 +169,17 @@ Programming quantum computers will be challenging, at least in the near term. Qu
 - April 6, 2010: [Stefan Leue](https://www.sen.uni-konstanz.de/) (Konstanz)
 - April 13, 2010: [Barath Raghavan](https://raghavan.usc.edu/) (Williams): Overloading the Internet with Decongestion Control
 - May 4, 2010: [Philippe Cudré-Mauroux](https://exascale.info/phil/) (MIT): SciDB: A Science-Oriented Database Management System
+
+## Spring 2007
+
+- February 27, 2007: [Stephen Freund](http://www.cs.williams.edu/~freund/index.html) (Williams): Velodrome
+- March 5, 2007: Brian Taylor: PhotoBase - A Test Tube for Collaborative Sensing Experiments
+- March 12, 2007: Bruno Ribeiro
+- March 26, 2007:
+  - Aruna Balasubrmanian: Web search on buses
+  - Daniel Menasche, Guto Rocha, Sookhyun Yang, and Bin Li: Bundling builds robustness in BitTorrent
+- April 2, 2007: Emmanuel Cecchet (EPFL): Middleware-based Database Replication: The Gaps between Theory and Practice
+- April 16, 2007:
+  - Bin Chen: Applying Finite-State Verification to Complex Medical Processes
+  - Matt Marzilli: Process-Driven GUIs
+- April 30, 2007: Ben Ransford: Pacemakers and Implantable Cardiac Defibrillators: Software Radio Attacks and Zero-Power Defenses
