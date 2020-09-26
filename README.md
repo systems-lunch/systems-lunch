@@ -19,6 +19,102 @@ To register, [fill out this Google form.](https://forms.gle/uV2Q8vxnZvZ5zaAh9)
 - October 30, 2020: [James Mickens](https://mickens.seas.harvard.edu/) (Harvard): [TBD](#october-30-2020)
 - November 13, 2020: [Tianqi Chen](https://tqchen.com/) (CMU): [TVM: An automated deep learning compiler](#november-13-2020)
 
+# Previous systems lunch talks
+
+## Fall 2019
+
+- September 27, 2019: [Jan Vitek](http://janvitek.org/)(Northeastern): [Getting everything wrong without doing anything right! On the perils of large-scale analysis of Github data]()
+- October 4, 2019: [Pavel Panchekha](https://pavpanchekha.com/)(Utah): [Automated Reasoning about Web Page Layout]()
+- October 11, 2019: [Anshul Gandhi](https://www3.cs.stonybrook.edu/~anshul/)(Stony Brook): [Using Variability as a Guiding Principle to Reduce Latency in Web Applications via OS Profiling]()
+
+## Spring 2018
+
+- April 19, 2018: [Amer Diwan](https://research.google/people/AmerDiwan/)(Google): [Why Billion User Systems are Hard]()
+
+## Fall 2017
+
+- October 19, 2017: [Nicholas Matsakis](http://smallcultfollowing.com/babysteps/)(Mozilla Research): [Rust: Systems Programming for All]()
+- November 3, 2017: [Andrei Alexandrescu](http://erdani.com/)(D Language Foundation): [Design by Introspection using the D Language]()
+- November 10, 2017: [Jan Vitek](http://janvitek.org/)(Northeastern): [The Beauty and the Beast – from Fortress to Julia]()
+
+## Fall 2016
+
+- September 30, 2016: Joe Gibbs Politz (UCSD) and Ben Lerner (Northeastern): Pyret: Language Design for #CS4All
+- October 3, 2016: Harry Xu (UC-Irvine): Marrying Generational GC and Region Techniques for High-Throughput, Low-Latency Big Data Management
+- October 24, 2016: Tim Kraska (Brown): Interactive Data Science
+- November 7, 2016: Gilles Muller (INRIA): Safe multicore scheduling in a Linux cluster environment
+- December 13, 2016: Reza Shokri (Cornell): Membership Inference and Privacy in Machine Learning
+
+## Fall 2015
+
+- September 28, 2015: Don Porter (Stony Brook): BetrFS: Write-Optimization in a Kernel File System
+- October 19, 2015: Remco Chang (Tufts): Big Data Visual Analytics: A User-Centric Approach
+- November 2, 2015: Ethan Heilman (Boston University): Eclipse Attacks on Bitcoin’s Peer-to-Peer Network
+
+## Spring 2015
+
+- April 27, 2015: Bryan Ford (EPFL): Warding off timing attacks in Deterland
+
+## Fall 2014
+
+- September 22, 2014: Guy Fedorkow (Juniper Networks): High-Scale Routers for Internet Infrastructure
+- September 26, 2014: Mike Swift (Wisconsin): New Interfaces to Storage-Class Memory
+- October 20, 2014: Jan Vitek (Northeastern): The Case for the Three R’s of Systems Research: Repeatability, Reproducibility and Rigor
+- October 27, 2014: Greg Morrisett (Harvard): Formalizing the x86
+- November 3, 2014: Armando Solar-Lezama (MIT): Constraint based synthesis beyond automated programming
+- November 17, 2014: Tony Printezis (Twitter): Use of the JVM at Twitter: a Bird’s Eye View
+- November 25, 2014: Anindya Banerjee (IMDEA/NSF): Modular Reasoning for Behavior-Preserving Data Structure Refactorings
+- December 8, 2014: Jean Yang (MIT): A Language for Automatically Enforcing Information Flow Policies
+
+## Spring 2014
+
+- February 10, 2014: Claire Le Goues (CMU): Automatic Program Repair Using Genetic Programming
+- May 12, 2014: Milind Kulkarni (Purdue): Automatically enhancing locality in irregular applications
+
+## Fall 2013
+
+- September 23, 2013: Niko Matsakis (Mozilla Research): Guaranteeing Memory Safety in Rust
+- September 30, 2013: Arjun Guha (UMass):  Programming Languages meets Programmable Networks
+- October 21, 2013: Veselin Raychev (ETH-Zurich): EventRacer: Finding Concurrency Errors in Web Sites
+- November 4, 2013: Nenad Medvidovic (USC): Architectural Decay in Software Systems: Symptoms, Causes, and Remedies
+
+## Spring 2013
+
+- April 8, 2013: Rick Hudson (Intel): River Trail: Adding Data Parallelism to JavaScript
+- April 22, 2013: Ramesh Sitaraman (UMass): The Billion Dollar Question in Online Videos: How Video Performance Impacts Viewer Behavior?
+- April 29, 2013: Robert Grimm (NYU): SuperC: Parsing All of C by Taming the Preprocessor
+
+## Fall 2012
+
+- September 17, 2012: Alexandra Meliou (UMass): Reverse Engineering Data Transformations
+- October 1, 2012: Ben Shneiderman (Maryland): Information Visualization for Medical Informatics
+- December 10, 2012: Kevin Walsh (Holy Cross): Authorization and Trust: Lessons from the Nexus Project
+
+## Spring 2012
+
+- February 13, 2012: Stephen Freund (Williams): Cooperative Concurrency for a Multicore World
+
+## Fall 2011
+
+- September 15, 2011: Jeff Chase (Duke): Trust in the Federation: Authorization for Multi-Domain Clouds
+- September 19, 2011: Christophe Diot and Renata Teixeira (Technicolor / CNRS and UPMC Sorbonne Universités): Challenges in digital services delivery | Performance of Networked Applications
+- October 3, 2011: Peter Sweeney (IBM TJ Watson): The State of Experimental Evaluation of Software and Systems in Computer Science
+- November 7, 2011: Sriram Rao (Yahoo! Research): I-files: Handling Intermediate Data In Parallel Dataflow Graphs
+- November 21, 2011: Gene Cooperman (Northeastern): Temporal Debugging via Flexible Checkpointing: Changing the Cost Model
+- November 22, 2011: Ben Livshits (Microsoft Research): Finding Malware on a Web Scale
+
+## Spring 2011
+
+- February 28, 2011: Simha Sethumadhavan (Columbia): Trustworthy Hardware from Untrustworthy Components
+- March 28, 2011: Angelina Lee (MIT): Using Thread-Local Memory Mapping to Support Cactus Stacks in Work-Stealing Runtime Systems
+- April 27, 2011: Dan Grossman (Washington): Collaborating at the Hardware/Software Interface: A Programming-Languages Professor’s View
+
+## Fall 2010
+
+- October 25, 2010: Saman Amarasinghe (MIT): PetaBricks: A Language and Compiler Based on Autotuning
+- November 8, 2010: Daniel Jimenez (UTSA): Reducing Wasted Speculation
+
+
 ### October 2, 2020
 
 | [Adrian Sampson](http://www.cs.cornell.edu/~asampson/) (Cornell) |
@@ -52,9 +148,7 @@ This talk will present facets of this philosophy in systems I have built for ima
 | :------------------- |
 | **A Verified Optimizer for Quantum Circuits** |
 | _(No specific background on quantum computing will be needed to understand this talk.)_
-Programming quantum computers will be challenging, at least in the near term. Qubits will be scarce, and gate pipelines will need to be short to prevent decoherence. Fortunately, optimizing compilers can transform a source algorithm to work with fewer resources. Unfortunately, the very factors that motivate optimizing quantum compilers make it difficult to test their correctness. Formal methods can help.
-I will present VOQC, the first fully verified compiler for quantum circuits, written using the Coq proof assistant. Quantum circuits are expressed as programs in a simple, low-level language called SQIR, which is deeply embedded in Coq. Optimizations and other transformations are expressed as Coq functions, which are proved correct with respect to a semantics of SQIR programs. SQIR uses a semantics of matrices of complex numbers, which is the standard for quantum computation, but treats matrices symbolically in order to reason about programs that use an arbitrary number of quantum bits. SQIR's careful design and our provided automation make it easy to write and verify a broad range of optimizations in VOQC, and even allow us to verify correctness properties of interesting source SQIR programs.
-This is joint work with Kesha Hietala, Robert Rand, Shih-Han Hung, Xiaodi Wu, and Michael Hicks, all at UMD. |
+Programming quantum computers will be challenging, at least in the near term. Qubits will be scarce, and gate pipelines will need to be short to prevent decoherence. Fortunately, optimizing compilers can transform a source algorithm to work with fewer resources. Unfortunately, the very factors that motivate optimizing quantum compilers make it difficult to test their correctness. Formal methods can help. I will present VOQC, the first fully verified compiler for quantum circuits, written using the Coq proof assistant. Quantum circuits are expressed as programs in a simple, low-level language called SQIR, which is deeply embedded in Coq. Optimizations and other transformations are expressed as Coq functions, which are proved correct with respect to a semantics of SQIR programs. SQIR uses a semantics of matrices of complex numbers, which is the standard for quantum computation, but treats matrices symbolically in order to reason about programs that use an arbitrary number of quantum bits. SQIR's careful design and our provided automation make it easy to write and verify a broad range of optimizations in VOQC, and even allow us to verify correctness properties of interesting source SQIR programs. This is joint work with Kesha Hietala, Robert Rand, Shih-Han Hung, Xiaodi Wu, and Michael Hicks, all at UMD. |
 | **Bio:** Michael W. Hicks is a Professor in the Computer Science Department at the University of Maryland, where he has been since 2002, and the CTO of Correct Computation, Inc. (CCI), a role he has held since late 2018. His research interests range over topics in programming languages, computer security, systems, and software engineering. He was the first Director of the University of Maryland's Cybersecurity Center (MC2), and was the elected Chair of ACM SIGPLAN, the Special Interest Group on Programming Languages; he now edits its blog, PL Perspectives, at https://blog.sigplan.org. In ongoing projects he is collaborating with the Checked C project to develop techniques for securing legacy C code; exploring synergies between cryptography and programming languages; developing techniques for better random (fuzz) testing and probabilistic reasoning; and designing high-assurance tools and languages for quantum computing. |
 
 ### October 30, 2020
@@ -72,7 +166,6 @@ This is joint work with Kesha Hietala, Robert Rand, Shih-Han Hung, Xiaodi Wu, an
 | **TVM: An automated deep learning compiler** |
 | Data, models, and computing are the three pillars that enable machine learning to solve real-world problems at scale. Making progress on these three domains requires not only disruptive algorithmic advances but also systems innovations that can continue to squeeze more efficiency out of modern hardware. Learning systems are in the center of every intelligent application nowadays. However, the ever-growing demand for applications and hardware specialization creates a huge engineering burden for these systems, most of which rely on heuristics or manual optimization. In this talk, I will present a new approach that uses machine learning to automate system optimizations. I will describe our approach in the context of deep learning deployment problems. I will first discuss how to design invariant representations that can lead to transferable statistical cost models, and apply these representations to optimize tensor programs used in deep learning applications. I will then describe the system improvements we made to enable diverse hardware backends. TVM, our end-to-end system, delivers performance across hardware back-ends that are competitive with state-of-the-art, hand-tuned deep learning frameworks. |
 | **Bio:** Tianqi Chen is currently an Assistant Professor at the Machine Learning Department and Computer Science Department of Carnegie Mellon University. He received his PhD. from the Paul G. Allen School of Computer Science & Engineering at the University of Washington, working with Carlos Guestrin on the intersection of machine learning and systems. He has created three major learning systems that are widely adopted: XGBoost, TVM, and MXNet (co-creator). |
-
 
 
 
