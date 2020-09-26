@@ -149,4 +149,21 @@ Programming quantum computers will be challenging, at least in the near term. Qu
 - March 28, 2011: Angelina Lee (MIT): Using Thread-Local Memory Mapping to Support Cactus Stacks in Work-Stealing Runtime Systems
 - April 27, 2011: Dan Grossman (Washington): Collaborating at the Hardware/Software Interface: A Programming-Languages Professor’s View
 
+## Fall 2009 - Spring 2010
 
+- September 29, 2009: Stephen Freund (Williams): FastTrack: Efficient and Precise Dynamic Race Detection
+- October 6, 2009: Sam Guyer (Tufts): Virtual Machine Introspection for Program Understanding and Debugging
+- October 13, 2009: Eran Yahav (IBM): Software Reliability: Untold Stories of Synthesis, Verification and Runtime Checking
+- October 20, 2009: Geoffrey Werner Challen (Harvard)
+- November 3, 2009: Ben Livshits (Microsoft Research): Towards Better Performance and Security for AJAX Web Applications
+- November 17, 2009: Mike Swift (Wisconsin): Software Support for Improved Driver Reliability
+- November 24, 2009: Bill Hesse (Google): Compiling JavaScript to Fast Executable Code
+- December 1, 2009: Michael Scott (Rochester): Transactional Memory, Six(teen) Years In
+- January 26, 2010: Martin Rinard (MIT): Automatically Reducing Energy Consumption, Improving Performance and Tolerating Failures with Good Quality of Service
+- February 1, 2010: Allen Malony (Oregon): Extreme Performance Engineering: Petascale and Heterogeneous Systems
+- March 2, 2010: Martin Hirzel (IBM): Programming Language Challenges and Solutions in Stream Processing
+- March 10, 2010: Kim Hazelwood (UVa): A Case for Runtime Adaptation Using Cross-Layer Approaches
+- March 30, 2010: Vitaliy Lvin (Google): SPDY, a new application-layer protocol for a faster Web
+- April 6, 2010: Stefan Leue (Konstanz)
+- April 13, 2010: Barath Raghavan (Williams): Overloading the Internet with Decongestion Control
+- May 4, 2010: Philippe Cudré-Mauroux (MIT): SciDB: A Science-Oriented Database Management System
