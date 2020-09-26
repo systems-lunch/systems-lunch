@@ -145,11 +145,11 @@ Programming quantum computers will be challenging, at least in the near term. Qu
 
 ## Fall 2010 - Spring 2011
 
-- October 25, 2010: Saman Amarasinghe (MIT): PetaBricks: A Language and Compiler Based on Autotuning
-- November 8, 2010: Daniel Jimenez (UTSA): Reducing Wasted Speculation
-- February 28, 2011: Simha Sethumadhavan (Columbia): Trustworthy Hardware from Untrustworthy Components
-- March 28, 2011: Angelina Lee (MIT): Using Thread-Local Memory Mapping to Support Cactus Stacks in Work-Stealing Runtime Systems
-- April 27, 2011: Dan Grossman (Washington): Collaborating at the Hardware/Software Interface: A Programming-Languages Professor’s View
+- October 25, 2010: [Saman Amarasinghe](https://people.csail.mit.edu/saman/) (MIT): PetaBricks: A Language and Compiler Based on Autotuning
+- November 8, 2010: [Daniel Jiménez](http://taco.cse.tamu.edu/) (UTSA): Reducing Wasted Speculation
+- February 28, 2011: [Simha Sethumadhavan](http://www.cs.columbia.edu/~simha/) (Columbia): Trustworthy Hardware from Untrustworthy Components
+- March 28, 2011: [Angelina Lee](https://www.cse.wustl.edu/~angelee/home_page/) (MIT): Using Thread-Local Memory Mapping to Support Cactus Stacks in Work-Stealing Runtime Systems
+- April 27, 2011: [Dan Grossman](https://homes.cs.washington.edu/~djg/) (Washington): Collaborating at the Hardware/Software Interface: A Programming-Languages Professor’s View
 
 ## Fall 2009 - Spring 2010
 
