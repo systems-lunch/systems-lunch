@@ -83,9 +83,9 @@ Programming quantum computers will be challenging, at least in the near term. Qu
 
 ## Fall 2017 - Spring 2018
 
-- October 19, 2017: [Nicholas Matsakis](http://smallcultfollowing.com/babysteps/)(Mozilla Research): [Rust: Systems Programming for All]()
-- November 3, 2017: [Andrei Alexandrescu](http://erdani.com/)(D Language Foundation): [Design by Introspection using the D Language]()
-- November 10, 2017: [Jan Vitek](http://janvitek.org/)(Northeastern): [The Beauty and the Beast – from Fortress to Julia]()
+- October 19, 2017: [Nicholas Matsakis](http://smallcultfollowing.com/babysteps/) (Mozilla Research): [Rust: Systems Programming for All]()
+- November 3, 2017: [Andrei Alexandrescu](http://erdani.com/) (D Language Foundation): [Design by Introspection using the D Language]()
+- November 10, 2017: [Jan Vitek](http://janvitek.org/) (Northeastern): [The Beauty and the Beast – from Fortress to Julia]()
 - April 19, 2018: [Amer Diwan](https://research.google/people/AmerDiwan/) (Google): [Why Billion User Systems are Hard]()
 
 ## Fall 2016
