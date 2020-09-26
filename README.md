@@ -134,13 +134,13 @@ Programming quantum computers will be challenging, at least in the near term. Qu
 
 ## Fall 2011 - Spring 2012
 
-- September 15, 2011: Jeff Chase (Duke): Trust in the Federation: Authorization for Multi-Domain Clouds
-- September 19, 2011: Christophe Diot and Renata Teixeira (Technicolor / CNRS and UPMC Sorbonne Universités): Challenges in digital services delivery / Performance of Networked Applications
-- October 3, 2011: Peter Sweeney (IBM TJ Watson): The State of Experimental Evaluation of Software and Systems in Computer Science
-- November 7, 2011: Sriram Rao (Yahoo! Research): I-files: Handling Intermediate Data In Parallel Dataflow Graphs
-- November 21, 2011: Gene Cooperman (Northeastern): Temporal Debugging via Flexible Checkpointing: Changing the Cost Model
-- November 22, 2011: Ben Livshits (Microsoft Research): Finding Malware on a Web Scale
-- February 13, 2012: Stephen Freund (Williams): Cooperative Concurrency for a Multicore World
+- September 15, 2011: [Jeff Chase](https://users.cs.duke.edu/~chase/) (Duke): Trust in the Federation: Authorization for Multi-Domain Clouds
+- September 19, 2011: [Christophe Diot](https://research.google/people/106911/) and [Renata Teixeira](https://who.rocq.inria.fr/Renata.Teixeira/) (Technicolor / CNRS and UPMC Sorbonne Universités): Challenges in digital services delivery / Performance of Networked Applications
+- October 3, 2011: [Peter Sweeney](https://www.linkedin.com/in/peter-f-sweeney-69a34a13/) (IBM TJ Watson): The State of Experimental Evaluation of Software and Systems in Computer Science
+- November 7, 2011: [Sriram Rao](https://www.linkedin.com/in/sriram-rao-120324/) (Yahoo! Research): I-files: Handling Intermediate Data In Parallel Dataflow Graphs
+- November 21, 2011: [Gene Cooperman](https://www.ccis.northeastern.edu/home/gene/) (Northeastern): Temporal Debugging via Flexible Checkpointing: Changing the Cost Model
+- November 22, 2011: [Ben Livshits](https://www.linkedin.com/in/ben-livshits/?originalSubdomain=uk) (Microsoft Research): Finding Malware on a Web Scale
+- February 13, 2012: [Stephen Freund](http://www.cs.williams.edu/~freund/index.html) (Williams): Cooperative Concurrency for a Multicore World
 
 
 ## Fall 2010 - Spring 2011
