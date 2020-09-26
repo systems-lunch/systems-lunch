@@ -90,17 +90,17 @@ Programming quantum computers will be challenging, at least in the near term. Qu
 
 ## Fall 2016
 
-- September 30, 2016: Joe Gibbs Politz (UCSD) and Ben Lerner (Northeastern): Pyret: Language Design for #CS4All
-- October 3, 2016: Harry Xu (UC-Irvine): Marrying Generational GC and Region Techniques for High-Throughput, Low-Latency Big Data Management
-- October 24, 2016: Tim Kraska (Brown): Interactive Data Science
-- November 7, 2016: Gilles Muller (INRIA): Safe multicore scheduling in a Linux cluster environment
-- December 13, 2016: Reza Shokri (Cornell): Membership Inference and Privacy in Machine Learning
+- September 30, 2016: [Joe Gibbs Politz](https://jpolitz.github.io/) (UCSD) and [Ben Lerner](https://www.ccs.neu.edu/home/blerner/) (Northeastern): Pyret: Language Design for #CS4All
+- October 3, 2016: [Harry Xu](http://web.cs.ucla.edu/~harryxu/) (UC-Irvine): Marrying Generational GC and Region Techniques for High-Throughput, Low-Latency Big Data Management
+- October 24, 2016: [Tim Kraska](http://people.csail.mit.edu/kraska/) (Brown): Interactive Data Science
+- November 7, 2016: [Gilles Muller](https://who.paris.inria.fr/Gilles.Muller/) (INRIA): Safe multicore scheduling in a Linux cluster environment
+- December 13, 2016: [Reza Shokri](https://www.comp.nus.edu.sg/~reza/) (Cornell): Membership Inference and Privacy in Machine Learning
 
 ## Fall 2015
 
-- September 28, 2015: Don Porter (Stony Brook): BetrFS: Write-Optimization in a Kernel File System
-- October 19, 2015: Remco Chang (Tufts): Big Data Visual Analytics: A User-Centric Approach
-- November 2, 2015: Ethan Heilman (Boston University): Eclipse Attacks on Bitcoin’s Peer-to-Peer Network
+- September 28, 2015: [Don Porter](https://www.cs.unc.edu/~porter/) (Stony Brook): BetrFS: Write-Optimization in a Kernel File System
+- October 19, 2015: [Remco Chang](https://www.cs.tufts.edu/~remco/) (Tufts): Big Data Visual Analytics: A User-Centric Approach
+- November 2, 2015: [Ethan Heilman](https://cs-people.bu.edu/heilman/) (Boston University): Eclipse Attacks on Bitcoin’s Peer-to-Peer Network
 
 ## Fall 2014 - Spring 2015
 
