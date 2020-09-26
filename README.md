@@ -57,7 +57,7 @@ Programming quantum computers will be challenging, at least in the near term. Qu
 
 ### October 30, 2020
 
-| [James Mickens](https://mickens.seas.harvard.edu/) (TBD) |
+| [James Mickens](https://mickens.seas.harvard.edu/) (Harvard) |
 | :------------------- |
 | **TBD** |
 |  |
