@@ -1,6 +1,6 @@
-# systems-lunch
+# UMass systems lunch
 
-The UMass CS Systems Lunch talk series (organized by [Emery
+The [UMass CS](https://www.cics.umass.edu/) Systems Lunch talk series (organized by [Emery
 Berger](https://emeryberger.com)) is Fridays at 12:00pm ~~in room A311
 (LGRC)~~ on your laptop anywhere on the planet! Everyone interested in
 systems is welcome to attend. Systems Lunch is a great opportunity to
