@@ -18,6 +18,7 @@ To register, [fill out this Google form.](https://forms.gle/uV2Q8vxnZvZ5zaAh9)
 - October 23, 2020: [Mike Hicks](http://www.cs.umd.edu/~mwh/) (Maryland): [A Verified Optimizer for Quantum Circuits](#october-23-2020)
 - October 30, 2020: [James Mickens](https://mickens.seas.harvard.edu/) (Harvard): [TBD](#october-30-2020)
 - November 13, 2020: [Tianqi Chen](https://tqchen.com/) (CMU): [TVM: An automated deep learning compiler](#november-13-2020)
+- November 20, 2020: [Emin Gün Sirer](https://www.linkedin.com/in/emin-gun-sirer-0a921a4/) (Cornell / Ava Labs): TBD
 - February 12, 2021: [Işıl Dillig](https://www.cs.utexas.edu/~isil/) (Texas): TBD
 - February 19, 2021: [Emina Torlak](https://homes.cs.washington.edu/~emina/) (Washington): TBD
 
@@ -70,6 +71,15 @@ Programming quantum computers will be challenging, at least in the near term. Qu
 | **TVM: An automated deep learning compiler** |
 | Data, models, and computing are the three pillars that enable machine learning to solve real-world problems at scale. Making progress on these three domains requires not only disruptive algorithmic advances but also systems innovations that can continue to squeeze more efficiency out of modern hardware. Learning systems are in the center of every intelligent application nowadays. However, the ever-growing demand for applications and hardware specialization creates a huge engineering burden for these systems, most of which rely on heuristics or manual optimization. In this talk, I will present a new approach that uses machine learning to automate system optimizations. I will describe our approach in the context of deep learning deployment problems. I will first discuss how to design invariant representations that can lead to transferable statistical cost models, and apply these representations to optimize tensor programs used in deep learning applications. I will then describe the system improvements we made to enable diverse hardware backends. TVM, our end-to-end system, delivers performance across hardware back-ends that are competitive with state-of-the-art, hand-tuned deep learning frameworks. |
 | **Bio:** Tianqi Chen is currently an Assistant Professor at the Machine Learning Department and Computer Science Department of Carnegie Mellon University. He received his PhD. from the Paul G. Allen School of Computer Science & Engineering at the University of Washington, working with Carlos Guestrin on the intersection of machine learning and systems. He has created three major learning systems that are widely adopted: XGBoost, TVM, and MXNet (co-creator). |
+
+
+### November 20, 2020
+
+| [Emin Gün Sirer](https://www.linkedin.com/in/emin-gun-sirer-0a921a4/), Cornell / Ava Labs |
+| :------------------- |
+| **TBD** |
+|  |
+|  |
 
 ***
 
