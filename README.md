@@ -16,7 +16,7 @@ To register, [fill out this Google form.](https://forms.gle/uV2Q8vxnZvZ5zaAh9)
 - October 9, 2020: [Hila Peleg](http://cseweb.ucsd.edu/~hpeleg/) (UCSD): [Programmer Tools with Program Synthesis](#october-9-2020)
 - October 16, 2020: [Jonathan Ragan-Kelley](https://people.eecs.berkeley.edu/~jrk/) (MIT): [Organizing Computation for High-Performance Graphics and Visual Computing](#october-16-2020)
 - October 23, 2020: [Mike Hicks](http://www.cs.umd.edu/~mwh/) (Maryland): [A Verified Optimizer for Quantum Circuits](#october-23-2020)
-- October 30, 2020: [James Mickens](https://mickens.seas.harvard.edu/) (Harvard): [TBD](#october-30-2020)
+- October 30, 2020: [James Mickens](https://mickens.seas.harvard.edu/) (Harvard): [Oblique: Accelerating Page Loads Using Symbolic Execution](#october-30-2020)
 - November 13, 2020: [Tianqi Chen](https://tqchen.com/) (CMU): [TVM: An automated deep learning compiler](#november-13-2020)
 - November 20, 2020: [Emin Gün Sirer](https://www.linkedin.com/in/emin-gun-sirer-0a921a4/) (Cornell / Ava Labs): TBD
 - February 12, 2021: [Işıl Dillig](https://www.cs.utexas.edu/~isil/) (Texas): TBD
