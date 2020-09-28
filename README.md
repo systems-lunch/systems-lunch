@@ -1,7 +1,7 @@
 # UMass systems lunch
 
 The [UMass CS](https://www.cics.umass.edu/) Systems Lunch talk series (organized by [Emery
-Berger](https://emeryberger.com)) is Fridays at 12:00pm ~~in room A311
+Berger](https://emeryberger.com)) is Fridays at [12:00pm Eastern](https://www.timeanddate.com/worldclock/converter.html?iso=20201009T160000&p1=43) ~~in room A311
 (LGRC)~~ on your laptop anywhere on the planet! Everyone interested in
 systems is welcome to attend. Systems Lunch is a great opportunity to
 hear exciting talks by visitors as well as to learn about projects
