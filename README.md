@@ -7,7 +7,7 @@ systems is welcome to attend. Systems Lunch is a great opportunity to
 hear exciting talks by visitors as well as to learn about projects
 going on in the College.
 
-All talks will be over Zoom and will require registration and a password.
+All talks will be streamed on YouTube Live but participation in Q&A requires registration.
 To register, [fill out this Google form.](https://forms.gle/uV2Q8vxnZvZ5zaAh9)
 
 ## Fall 2020 - Spring 2021
