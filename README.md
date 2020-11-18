@@ -18,7 +18,7 @@ To register, [fill out this Google form.](https://forms.gle/uV2Q8vxnZvZ5zaAh9)
 - October 23, 2020: [Mike Hicks](http://www.cs.umd.edu/~mwh/) (Maryland): [A Verified Optimizer for Quantum Circuits](#october-23-2020)
 - October 30, 2020: [James Mickens](https://mickens.seas.harvard.edu/) (Harvard): [Oblique: Accelerating Page Loads Using Symbolic Execution](#october-30-2020)
 - November 13, 2020: [Tianqi Chen](https://tqchen.com/) (CMU): [TVM: An automated deep learning compiler](#november-13-2020)
-- November 20, 2020: [Emin Gün Sirer](https://www.linkedin.com/in/emin-gun-sirer-0a921a4/) (Cornell / Ava Labs): [TBD](#november-20-2020)
+- November 20, 2020: [Emin Gün Sirer](https://www.linkedin.com/in/emin-gun-sirer-0a921a4/) (Cornell / Ava Labs): [Open and Programmable Finance with Avalanche](#november-20-2020)
 - February 12, 2021: [Işıl Dillig](https://www.cs.utexas.edu/~isil/) (Texas): TBD
 - February 19, 2021: [Emina Torlak](https://homes.cs.washington.edu/~emina/) (Washington): TBD
 
