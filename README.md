@@ -82,7 +82,7 @@ Programming quantum computers will be challenging, at least in the near term. Qu
 | [Emin Gün Sirer](https://www.linkedin.com/in/emin-gun-sirer-0a921a4/), Cornell / Ava Labs |
 | :------------------- |
 | **Open and Programmable Finance with Avalanche** |
-| [![video](https://youtu.be/VdyJz-wGnnY/0.jpg)](https://youtu.be/VdyJz-wGnnY) |
+| [![video](https://img.youtube.com/vi/VdyJz-wGnnY/0.jpg)](https://youtu.be/VdyJz-wGnnY) |
 | Avalanche is an open-source platform for launching decentralized applications and enterprise blockchain deployments in one interoperable, highly-scalable ecosystem. This talk will focus on the Avalanche network and the potential for decentralized and institutional finance applications built upon it. |
 | **Bio:** Emin Gun Sirer is a professor of computer science at Cornell University, founder of Ava Labs, co-founder of bloXroute Inc, and co-director of the Initiative for Cryptocurrencies and Smart Contracts (IC3). Among other things, Sirer is known for having implemented the first currency that used proof of work to mint coins, for selfish mining, for characterizing the scale and centralization of existing cryptocurrencies, as well as having proposed the leading protocols for on-chain and off-chain scaling. Of all his collaborations, he is proudest of his contributions to the John Oliver Show's segment on cryptocurrencies. |
 
