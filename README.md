@@ -72,6 +72,7 @@ Programming quantum computers will be challenging, at least in the near term. Qu
 ### November 13, 2020
 
 | [Tianqi Chen](https://tqchen.com/), CMU |
+| [![video](https://img.youtube.com/vi/u17Q4G3iQ_c/0.jpg)](https://youtu.be/u17Q4G3iQ_c) |
 | :------------------- |
 | **TVM: An automated deep learning compiler** |
 | Data, models, and computing are the three pillars that enable machine learning to solve real-world problems at scale. Making progress on these three domains requires not only disruptive algorithmic advances but also systems innovations that can continue to squeeze more efficiency out of modern hardware. Learning systems are in the center of every intelligent application nowadays. However, the ever-growing demand for applications and hardware specialization creates a huge engineering burden for these systems, most of which rely on heuristics or manual optimization. In this talk, I will present a new approach that uses machine learning to automate system optimizations. I will describe our approach in the context of deep learning deployment problems. I will first discuss how to design invariant representations that can lead to transferable statistical cost models, and apply these representations to optimize tensor programs used in deep learning applications. I will then describe the system improvements we made to enable diverse hardware backends. TVM, our end-to-end system, delivers performance across hardware back-ends that are competitive with state-of-the-art, hand-tuned deep learning frameworks. |
