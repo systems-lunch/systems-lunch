@@ -71,7 +71,7 @@ Programming quantum computers will be challenging, at least in the near term. Qu
 
 ### November 13, 2020
 
-| [Tianqi Chen](https://tqchen.com/), CMU |
+| [Tianqi Chen](https://tqchen.com/) (CMU) |
 | :------------------- |
 | **TVM: An automated deep learning compiler** |
 | [![video](https://img.youtube.com/vi/u17Q4G3iQ_c/0.jpg)](https://youtu.be/u17Q4G3iQ_c) |
