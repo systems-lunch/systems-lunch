@@ -96,7 +96,7 @@ Programming quantum computers will be challenging, at least in the near term. Qu
 - September 27, 2019: [Jan Vitek](http://janvitek.org/) (Northeastern): [Getting everything wrong without doing anything right! On the perils of large-scale analysis of Github data](2019-2020/Getting-Everything-Wrong-Jan-Vitek.pdf)
 - October 4, 2019: [Pavel Panchekha](https://pavpanchekha.com/) (Utah): Automated Reasoning about Web Page Layout
 - October 11, 2019: [Anshul Gandhi](https://www3.cs.stonybrook.edu/~anshul/) (Stony Brook): Using Variability as a Guiding Principle to Reduce Latency in Web Applications via OS Profiling
-- November 8, 2019: [Michael Carbin](https://people.csail.mit.edu/mcarbin/) (MIT): Engineering Approximate Computations
+- November 8, 2019: [Michael Carbin](https://people.csail.mit.edu/mcarbin/) (MIT): [Engineering Approximate Computations](https://github.com/systems-lunch/systems-lunch/blob/master/2019-2020/Engineering-Approximate-Computations-Mike-Carbin.pdf)
 
 ## Fall 2017 - Spring 2018
 
