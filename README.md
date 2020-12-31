@@ -20,7 +20,7 @@ To register, [fill out this Google form.](https://forms.gle/uV2Q8vxnZvZ5zaAh9)
 - November 13, 2020: [Tianqi Chen](https://tqchen.com/) (CMU): [TVM: An automated deep learning compiler](#november-13-2020)
 - November 20, 2020: [Emin Gün Sirer](https://www.linkedin.com/in/emin-gun-sirer-0a921a4/) (Cornell / Ava Labs): [Open and Programmable Finance with Avalanche](#november-20-2020)
 - February 12, 2021: [Işıl Dillig](https://www.cs.utexas.edu/~isil/) (Texas): TBD
-- February 19, 2021: [Emina Torlak](https://homes.cs.washington.edu/~emina/) (Washington): TBD
+- February 19, 2021: [Emina Torlak](https://homes.cs.washington.edu/~emina/) (Washington): [Solver-Aided Programming for All](#februrary-19-2021)
 
 ### October 2, 2020
 
@@ -86,6 +86,17 @@ Programming quantum computers will be challenging, at least in the near term. Qu
 | [![video](https://img.youtube.com/vi/VdyJz-wGnnY/0.jpg)](https://youtu.be/VdyJz-wGnnY) |
 | Avalanche is an open-source platform for launching decentralized applications and enterprise blockchain deployments in one interoperable, highly-scalable ecosystem. This talk will focus on the Avalanche network and the potential for decentralized and institutional finance applications built upon it. |
 | **Bio:** Emin Gun Sirer is a professor of computer science at Cornell University, founder of Ava Labs, co-founder of bloXroute Inc, and co-director of the Initiative for Cryptocurrencies and Smart Contracts (IC3). Among other things, Sirer is known for having implemented the first currency that used proof of work to mint coins, for selfish mining, for characterizing the scale and centralization of existing cryptocurrencies, as well as having proposed the leading protocols for on-chain and off-chain scaling. Of all his collaborations, he is proudest of his contributions to the John Oliver Show's segment on cryptocurrencies. |
+
+### February 12, 2021
+
+### February 19, 2021
+
+| [Emina Torlak](https://homes.cs.washington.edu/~emina/), University of Washington |
+| :----------------- |
+| **Solver-Aided Programming for All** |
+| Solver-aided tools have automated the verification and synthesis of practical programs in many domains, from high-performance computing to executable biology. These tools work by reducing verification and synthesis tasks to satisfiability queries, which involves compiling programs to logical constraints. Developing an effective symbolic compiler is challenging, however, and until recently, it took years of expert work to create a solver-aided tool for a new domain. In this talk, I will present Rosette, a programming language for rapid creation of solver-aided tools. To build a new tool, you write an interpreter for the tool's input language, and Rosette lifts this interpreter into a symbolic compiler. This is made possible by Rosette's symbolic virtual machine, which can translate both a language implementation and programs in that language to efficient constraints. Since its first public release in 2014, Rosette has enabled a wide range of programmers, from professional developers to high school students, to  create over 30 new verification and synthesis tools. Example applications include verifying radiation therapy software in current clinical use, synthesizing GPU kernels, and verifying and synthesizing just-in-time compilers that are part of the Linux operating system. This talk will provide a brief introduction to Rosette and describe a few recent applications. |
+| **Bio:** TBD |
+
 
 ***
 
