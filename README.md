@@ -19,7 +19,7 @@ To register, [fill out this Google form.](https://forms.gle/uV2Q8vxnZvZ5zaAh9)
 - October 30, 2020: [James Mickens](https://mickens.seas.harvard.edu/) (Harvard): [Oblique: Accelerating Page Loads Using Symbolic Execution](#october-30-2020)
 - November 13, 2020: [Tianqi Chen](https://tqchen.com/) (CMU): [TVM: An automated deep learning compiler](#november-13-2020)
 - November 20, 2020: [Emin Gün Sirer](https://www.linkedin.com/in/emin-gun-sirer-0a921a4/) (Cornell / Ava Labs): [Open and Programmable Finance with Avalanche](#november-20-2020)
-- February 12, 2021: [Işıl Dillig](https://www.cs.utexas.edu/~isil/) (Texas): TBD
+- February 12, 2021: [Işıl Dillig](https://www.cs.utexas.edu/~isil/) (Texas): [Computer-Aided Programming Across the Software Stack](#february-12-2021)
 - February 19, 2021: [Emina Torlak](https://homes.cs.washington.edu/~emina/) (Washington): [Solver-Aided Programming for All](#februrary-19-2021)
 
 ### October 2, 2020
@@ -89,13 +89,20 @@ Programming quantum computers will be challenging, at least in the near term. Qu
 
 ### February 12, 2021
 
+| [Işıl Dillig](https://www.cs.utexas.edu/~isil/), University of Texas at Austin |
+| :----------------- |
+| **Computer-Aided Programming Across the Software Stack** |
+| Program synthesis techniques aim to generate executable programs from  expressions of user intent. This talk will showcase various applications of program synthesis across different layers of the software stack, starting from computer end-users to application programmers and all the way down to systems programmers. It will also highlight the usefulness of program synthesis for addressing different software concerns, including functionality, correctness, performance, and security. |
+| **Bio:** Işıl Dillig is an Associate Professor of Computer Science at the University of Texas at Austin where she leads the UToPiA research group. Her main research area is programming languages, with a specific emphasis on program synthesis and static analysis. The techniques developed by her group aim to make software systems more reliable, secure, and easier to build in a robust way. Dr. Dillig is a Sloan Fellow and a recipient of the NSF CAREER award. She obtained all her degrees (BS, MS, and PhD) from Stanford University. |
+
+
 ### February 19, 2021
 
 | [Emina Torlak](https://homes.cs.washington.edu/~emina/), University of Washington |
 | :----------------- |
 | **Solver-Aided Programming for All** |
 | Solver-aided tools have automated the verification and synthesis of practical programs in many domains, from high-performance computing to executable biology. These tools work by reducing verification and synthesis tasks to satisfiability queries, which involves compiling programs to logical constraints. Developing an effective symbolic compiler is challenging, however, and until recently, it took years of expert work to create a solver-aided tool for a new domain. In this talk, I will present Rosette, a programming language for rapid creation of solver-aided tools. To build a new tool, you write an interpreter for the tool's input language, and Rosette lifts this interpreter into a symbolic compiler. This is made possible by Rosette's symbolic virtual machine, which can translate both a language implementation and programs in that language to efficient constraints. Since its first public release in 2014, Rosette has enabled a wide range of programmers, from professional developers to high school students, to  create over 30 new verification and synthesis tools. Example applications include verifying radiation therapy software in current clinical use, synthesizing GPU kernels, and verifying and synthesizing just-in-time compilers that are part of the Linux operating system. This talk will provide a brief introduction to Rosette and describe a few recent applications. |
-| **Bio:** TBD |
+| **Bio:** Emina Torlak is an Associate Professor at the University of Washington, working at the intersection of programming languages, formal methods, and software engineering. She is the creator of the Kodkod constraint solver, which has been used in over 70 academic and industrial tools for software engineering, and Rosette, a new language that makes it easy to create efficient tools for program verification, synthesis, and more. |
 
 
 ***
