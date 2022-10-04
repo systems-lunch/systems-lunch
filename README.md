@@ -1,14 +1,19 @@
 # UMass systems lunch
 
 The [UMass CS](https://www.cics.umass.edu/) Systems Lunch talk series (organized by [Emery
-Berger](https://emeryberger.com)) is Fridays at [12:00pm Eastern](https://www.timeanddate.com/worldclock/converter.html?iso=20201009T160000&p1=43) ~~in room A311
-(LGRC)~~ on your laptop anywhere on the planet! Everyone interested in
+Berger](https://emeryberger.com)) is back in person! All talks are Fridays at [12:00pm Eastern](https://www.timeanddate.com/worldclock/converter.html?iso=20201009T160000&p1=43) in room A311
+(LGRC) Everyone interested in
 systems is welcome to attend. Systems Lunch is a great opportunity to
 hear exciting talks by visitors as well as to learn about projects
 going on in the College.
 
-All talks will be streamed on YouTube Live but participation in Q&A requires registration (which will get you on the Systems Lunch Slack).
-To register, [fill out this Google form.](https://forms.gle/uV2Q8vxnZvZ5zaAh9)
+## Fall 2022 - Spring 2023
+
+- October 7, 2022: [Lorenzo Alvisi](https://www.cs.cornell.edu/lorenzo/) (Cornell): Orderrr! A tale of Money, Intrigue, and Specifications
+- November 18, 2022: [Christina Delimitrou](http://people.csail.mit.edu/delimitrou/) (MIT): Designing the Next Generation Cloud Systems: An ML-Driven Approach
+- December 2, 2022: [Abhishek Bhattacharjee](https://www.cs.yale.edu/homes/abhishek/) (Yale): TBD
+- December 9, 2022: [Elena Glassman](https://glassmanlab.seas.harvard.edu/) (Harvard): TBD
+
 
 ## Fall 2020 - Spring 2021
 
