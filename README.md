@@ -10,7 +10,7 @@ going on in the College.
 ## Fall 2022 - Spring 2023
 
 - October 7, 2022: [Lorenzo Alvisi](https://www.cs.cornell.edu/lorenzo/) (Cornell): Orderrr! A tale of Money, Intrigue, and Specifications
-- November 4, 2022: [Ulfar Erlingsson](https://www.linkedin.com/in/ulfar/) (LaceWork): TBD
+- November 4, 2022: [Ulfar Erlingsson](https://www.linkedin.com/in/ulfar/) (LaceWork): The New Normal: Achieving Security in an Ever-Changing Cloud
 - November 18, 2022: [Christina Delimitrou](http://people.csail.mit.edu/delimitrou/) (MIT): Designing the Next Generation Cloud Systems: An ML-Driven Approach
 - December 2, 2022: [Abhishek Bhattacharjee](https://www.cs.yale.edu/homes/abhishek/) (Yale): TBD
 - December 9, 2022: [Elena Glassman](https://glassmanlab.seas.harvard.edu/) (Harvard): TBD
