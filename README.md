@@ -9,6 +9,8 @@ going on in the College.
 
 ## Fall 2022 - Spring 2023
 
+- May 5, 2023: [Malte Schwarzkopf](https://cs.brown.edu/people/malte/) (Brown): Privacy Compliance as a First-Class System Design Principle
+- February 10, 2023: [Adam Belay](http://www.abelay.me) (MIT): Achieving Microsecond-scale Resource Fungibility with Nu
 - October 7, 2022: [Lorenzo Alvisi](https://www.cs.cornell.edu/lorenzo/) (Cornell): Orderrr! A tale of Money, Intrigue, and Specifications
 - November 4, 2022: [Ulfar Erlingsson](https://www.linkedin.com/in/ulfar/) (LaceWork): The New Normal: Achieving Security in an Ever-Changing Cloud
 - ~~November 18, 2022: [Christina Delimitrou](http://people.csail.mit.edu/delimitrou/) (MIT): Designing the Next Generation Cloud Systems: An ML-Driven Approach~~ (to be rescheduled)
