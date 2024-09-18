@@ -1,11 +1,15 @@
 # UMass systems lunch
 
-The [UMass CS](https://www.cics.umass.edu/) Systems Lunch talk series (organized by [Emery
-Berger](https://emeryberger.com)) is back in person! All talks are Fridays at [12:00pm Eastern](https://www.timeanddate.com/worldclock/converter.html?iso=20201009T160000&p1=43) in room A311
-(LGRC) Everyone interested in
-systems is welcome to attend. Systems Lunch is a great opportunity to
+The [UMass CS](https://www.cics.umass.edu/) Systems Lunch talk series (currently organized by [Prashant Shenoy](https://people.cs.umass.edu/~shenoy/) and [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/)) is back in person! All talks are Fridays at [12:00pm Eastern](https://www.timeanddate.com/worldclock/converter.html?iso=20201009T160000&p1=43) in room A311
+(LGRC) Everyone interested in systems is welcome to attend. Systems Lunch is a great opportunity to
 hear exciting talks by visitors as well as to learn about projects
 going on in the College.
+
+## Fall 2024 - Spring 2025
+
+- September 27, 2024: [Pengfei Su](https://pengfei-su.github.io) (UC Merced): TBD
+- October 4, 2024: [Ali Begen](https://ali.begen.net) (Ozyegin University): Unifying Real-Time Communications and Content Delivery with Media-over-QUIC Transport
+- October 25, 2024: [Nico Christianson](https://nicochristianson.com) (Caltech): TBD
 
 ## Fall 2022 - Spring 2023
 
