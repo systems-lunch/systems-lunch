@@ -7,9 +7,9 @@ going on in the College.
 
 ## Fall 2024 - Spring 2025
 
-- September 27, 2024: [Pengfei Su](https://pengfei-su.github.io) (UC Merced): TBD
 - October 4, 2024: [Ali Begen](https://ali.begen.net) (Ozyegin University): Unifying Real-Time Communications and Content Delivery with Media-over-QUIC Transport
-- October 25, 2024: [Nico Christianson](https://nicochristianson.com) (Caltech): TBD
+- October 18, 2024: [Nico Christianson](https://nicochristianson.com) (Caltech): TBD
+- October TBD, 2024: [Pengfei Su](https://pengfei-su.github.io) (UC Merced): TBD
 
 ## Fall 2022 - Spring 2023
 
